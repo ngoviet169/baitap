@@ -101,15 +101,17 @@
         </tr>
         <tr>
             <td>Chọn bài: </td>
-            <td><select name="select">
-                <option value="1">Bài 1</option>
-                <option value="2">Bài 2</option>
-                <option value="3">Bài 3</option>
-                <option value="4">Bài 4</option>
-                <option value="5">Bài 5</option>
-                <option value="6">Bài 6</option>
-                <option value="7">Bài 7</option>
-            </select></td>
+            <td>
+                <select name="select">
+                    <option value="1">Bài 1</option>
+                    <option value="2">Bài 2</option>
+                    <option value="3">Bài 3</option>
+                    <option value="4">Bài 4</option>
+                    <option value="5">Bài 5</option>
+                    <option value="6">Bài 6</option>
+                    <option value="7">Bài 7</option>
+                </select>
+            </td>
         </tr>
         <tr>
             <td colspan="2" align="center"><input type="submit" name="submit" value="Tính"></td>
@@ -167,8 +169,6 @@
         default:
             # code...
             break;
-    }
-
-    
+        }
     }
 ?>
