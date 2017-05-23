@@ -1,6 +1,0 @@
-abcd
-test
-
-second test
-
-third test
